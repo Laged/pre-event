@@ -8,7 +8,6 @@
 //All buttons and leds are connected on the other end to the GROUND pin.
 
 bool toggleState = true;
-int lastState = 0;
 
 void setup() {
   // put your setup code here, to run once:
